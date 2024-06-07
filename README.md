@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/arpitapatil14/Java_DSA/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/arpitapatil14/Java_DSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/arpitapatil14/Java_DSA/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/arpitapatil14/Java_DSA/tree/master/1044-find-common-characters) |
