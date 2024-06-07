@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/arpitapatil14/Java_DSA/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
 # Greedy
 |  |
 | ------- |
@@ -53,3 +54,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/arpitapatil14/Java_DSA/tree/master/0648-replace-words) |
+# Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
