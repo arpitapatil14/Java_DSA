@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/arpitapatil14/Java_DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/arpitapatil14/Java_DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/arpitapatil14/Java_DSA/tree/master/0392-is-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/arpitapatil14/Java_DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/arpitapatil14/Java_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/arpitapatil14/Java_DSA/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/arpitapatil14/Java_DSA/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/arpitapatil14/Java_DSA/tree/master/0876-hand-of-straights) |
