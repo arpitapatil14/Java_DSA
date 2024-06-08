@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/arpitapatil14/Java_DSA/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/arpitapatil14/Java_DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/arpitapatil14/Java_DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/arpitapatil14/Java_DSA/tree/master/0409-longest-palindrome) |
@@ -80,3 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/arpitapatil14/Java_DSA/tree/master/0724-find-pivot-index) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/arpitapatil14/Java_DSA/tree/master/0020-valid-parentheses) |
