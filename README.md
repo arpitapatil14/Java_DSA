@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/arpitapatil14/Java_DSA/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/arpitapatil14/Java_DSA/tree/master/0648-replace-words) |
+| [0724-find-pivot-index](https://github.com/arpitapatil14/Java_DSA/tree/master/0724-find-pivot-index) |
 | [0876-hand-of-straights](https://github.com/arpitapatil14/Java_DSA/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/arpitapatil14/Java_DSA/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -78,3 +79,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/arpitapatil14/Java_DSA/tree/master/0724-find-pivot-index) |
