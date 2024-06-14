@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/arpitapatil14/Java_DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/arpitapatil14/Java_DSA/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/arpitapatil14/Java_DSA/tree/master/3397-find-the-integer-added-to-array-i) |
 # Sorting
 |  |
 | ------- |
