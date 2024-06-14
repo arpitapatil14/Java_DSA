@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/arpitapatil14/Java_DSA/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/arpitapatil14/Java_DSA/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/arpitapatil14/Java_DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 # Sorting
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/arpitapatil14/Java_DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/arpitapatil14/Java_DSA/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 # Recursion
 |  |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/arpitapatil14/Java_DSA/tree/master/0724-find-pivot-index) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/arpitapatil14/Java_DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 # Stack
 |  |
 | ------- |
@@ -106,5 +109,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Simulation
 |  |
 | ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/arpitapatil14/Java_DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3447-clear-digits](https://github.com/arpitapatil14/Java_DSA/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/arpitapatil14/Java_DSA/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+# Combinatorics
+|  |
+| ------- |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/arpitapatil14/Java_DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
