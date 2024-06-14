@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/arpitapatil14/Java_DSA/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 # Recursion
 |  |
 | ------- |
@@ -105,3 +106,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/arpitapatil14/Java_DSA/tree/master/3447-clear-digits) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/arpitapatil14/Java_DSA/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
