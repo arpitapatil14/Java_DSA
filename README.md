@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arpitapatil14/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/arpitapatil14/Java_DSA/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
 # Greedy
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arpitapatil14/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arpitapatil14/Java_DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/arpitapatil14/Java_DSA/tree/master/0485-max-consecutive-ones) |
@@ -118,3 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/arpitapatil14/Java_DSA/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/arpitapatil14/Java_DSA/tree/master/0053-maximum-subarray) |
