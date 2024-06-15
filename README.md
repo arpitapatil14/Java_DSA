@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0189-rotate-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arpitapatil14/Java_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/arpitapatil14/Java_DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/arpitapatil14/Java_DSA/tree/master/0392-is-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/arpitapatil14/Java_DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/arpitapatil14/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arpitapatil14/Java_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/arpitapatil14/Java_DSA/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/arpitapatil14/Java_DSA/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/0523-continuous-subarray-sum) |
@@ -136,3 +138,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/arpitapatil14/Java_DSA/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0287-find-the-duplicate-number) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0287-find-the-duplicate-number) |
