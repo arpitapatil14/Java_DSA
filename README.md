@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/arpitapatil14/Java_DSA/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/arpitapatil14/Java_DSA/tree/master/0853-most-profit-assigning-work) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/arpitapatil14/Java_DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/arpitapatil14/Java_DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/arpitapatil14/Java_DSA/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/arpitapatil14/Java_DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/arpitapatil14/Java_DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/arpitapatil14/Java_DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/arpitapatil14/Java_DSA/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2102-find-the-middle-index-in-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2102-find-the-middle-index-in-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/arpitapatil14/Java_DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/arpitapatil14/Java_DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/arpitapatil14/Java_DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/arpitapatil14/Java_DSA/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -89,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/arpitapatil14/Java_DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/arpitapatil14/Java_DSA/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/arpitapatil14/Java_DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 # Trie
 |  |
 | ------- |
