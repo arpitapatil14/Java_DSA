@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/arpitapatil14/Java_DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/arpitapatil14/Java_DSA/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/arpitapatil14/Java_DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2102-find-the-middle-index-in-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2102-find-the-middle-index-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/arpitapatil14/Java_DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/arpitapatil14/Java_DSA/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/arpitapatil14/Java_DSA/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/arpitapatil14/Java_DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Bit Manipulation
 |  |
 | ------- |
