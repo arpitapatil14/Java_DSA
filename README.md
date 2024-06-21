@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/arpitapatil14/Java_DSA/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/arpitapatil14/Java_DSA/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0648-replace-words](https://github.com/arpitapatil14/Java_DSA/tree/master/0648-replace-words) |
 | [0724-find-pivot-index](https://github.com/arpitapatil14/Java_DSA/tree/master/0724-find-pivot-index) |
 | [0853-most-profit-assigning-work](https://github.com/arpitapatil14/Java_DSA/tree/master/0853-most-profit-assigning-work) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/arpitapatil14/Java_DSA/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/arpitapatil14/Java_DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
