@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/arpitapatil14/Java_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0330-patching-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/arpitapatil14/Java_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/arpitapatil14/Java_DSA/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/arpitapatil14/Java_DSA/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/0523-continuous-subarray-sum) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/arpitapatil14/Java_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
