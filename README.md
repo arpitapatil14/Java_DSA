@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/arpitapatil14/Java_DSA/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/arpitapatil14/Java_DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/0633-sum-of-square-numbers) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/arpitapatil14/Java_DSA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
 # Memoization
 |  |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/arpitapatil14/Java_DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/arpitapatil14/Java_DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0287-find-the-duplicate-number) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/arpitapatil14/Java_DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Database
