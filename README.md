@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arpitapatil14/Java_DSA/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/arpitapatil14/Java_DSA/tree/master/0191-number-of-1-bits) |
 | [1285-balance-a-binary-search-tree](https://github.com/arpitapatil14/Java_DSA/tree/master/1285-balance-a-binary-search-tree) |
 # Heap (Priority Queue)
 |  |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/arpitapatil14/Java_DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0287-find-the-duplicate-number) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/arpitapatil14/Java_DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Database
