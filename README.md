@@ -287,4 +287,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/arpitapatil14/Java_DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2551-apply-operations-to-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2551-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
