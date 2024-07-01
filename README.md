@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/arpitapatil14/Java_DSA/tree/master/0198-house-robber) |
+| [1293-three-consecutive-odds](https://github.com/arpitapatil14/Java_DSA/tree/master/1293-three-consecutive-odds) |
 | [2551-apply-operations-to-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
