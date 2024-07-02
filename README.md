@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/arpitapatil14/Java_DSA/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -291,11 +292,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/arpitapatil14/Java_DSA/tree/master/0198-house-robber) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/arpitapatil14/Java_DSA/tree/master/1293-three-consecutive-odds) |
 | [2551-apply-operations-to-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -314,4 +317,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arpitapatil14/Java_DSA/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
