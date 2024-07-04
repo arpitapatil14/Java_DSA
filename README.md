@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/arpitapatil14/Java_DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
@@ -328,4 +329,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/arpitapatil14/Java_DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
