@@ -308,10 +308,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/arpitapatil14/Java_DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2645-pass-the-pillow](https://github.com/arpitapatil14/Java_DSA/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arpitapatil14/Java_DSA/tree/master/0070-climbing-stairs) |
+| [2645-pass-the-pillow](https://github.com/arpitapatil14/Java_DSA/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
 | ------- |
