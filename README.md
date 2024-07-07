@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/arpitapatil14/Java_DSA/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/arpitapatil14/Java_DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/arpitapatil14/Java_DSA/tree/master/2645-pass-the-pillow) |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arpitapatil14/Java_DSA/tree/master/0070-climbing-stairs) |
+| [1642-water-bottles](https://github.com/arpitapatil14/Java_DSA/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/arpitapatil14/Java_DSA/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
