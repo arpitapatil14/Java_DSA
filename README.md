@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/arpitapatil14/Java_DSA/tree/master/0965-unique-email-addresses) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/arpitapatil14/Java_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/arpitapatil14/Java_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/arpitapatil14/Java_DSA/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/1333-sort-the-jumbled-numbers) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0965-unique-email-addresses](https://github.com/arpitapatil14/Java_DSA/tree/master/0965-unique-email-addresses) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/arpitapatil14/Java_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/arpitapatil14/Java_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/arpitapatil14/Java_DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/arpitapatil14/Java_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
