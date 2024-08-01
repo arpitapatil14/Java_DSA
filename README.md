@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2502-sort-the-people](https://github.com/arpitapatil14/Java_DSA/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/arpitapatil14/Java_DSA/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/arpitapatil14/Java_DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Two Pointers
 |  |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/arpitapatil14/Java_DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/arpitapatil14/Java_DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/arpitapatil14/Java_DSA/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/arpitapatil14/Java_DSA/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/arpitapatil14/Java_DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
