@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/arpitapatil14/Java_DSA/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0870-magic-squares-in-grid](https://github.com/arpitapatil14/Java_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/arpitapatil14/Java_DSA/tree/master/0921-spiral-matrix-iii) |
 | [0924-fair-candy-swap](https://github.com/arpitapatil14/Java_DSA/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0932-monotonic-array) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/arpitapatil14/Java_DSA/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/arpitapatil14/Java_DSA/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/arpitapatil14/Java_DSA/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/arpitapatil14/Java_DSA/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpitapatil14/Java_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0870-magic-squares-in-grid](https://github.com/arpitapatil14/Java_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arpitapatil14/Java_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/arpitapatil14/Java_DSA/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/arpitapatil14/Java_DSA/tree/master/0965-unique-email-addresses) |
@@ -460,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0870-magic-squares-in-grid](https://github.com/arpitapatil14/Java_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/arpitapatil14/Java_DSA/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/arpitapatil14/Java_DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
