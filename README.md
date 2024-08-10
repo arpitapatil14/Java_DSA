@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/arpitapatil14/Java_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/arpitapatil14/Java_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/arpitapatil14/Java_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/arpitapatil14/Java_DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/arpitapatil14/Java_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/arpitapatil14/Java_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/arpitapatil14/Java_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/arpitapatil14/Java_DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-monotonic-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/arpitapatil14/Java_DSA/tree/master/0965-unique-email-addresses) |
+| [0999-regions-cut-by-slashes](https://github.com/arpitapatil14/Java_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/arpitapatil14/Java_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1196-filling-bookcase-shelves](https://github.com/arpitapatil14/Java_DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/arpitapatil14/Java_DSA/tree/master/1207-delete-nodes-and-return-forest) |
@@ -391,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/arpitapatil14/Java_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/arpitapatil14/Java_DSA/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/arpitapatil14/Java_DSA/tree/master/0965-unique-email-addresses) |
+| [0999-regions-cut-by-slashes](https://github.com/arpitapatil14/Java_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/arpitapatil14/Java_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/arpitapatil14/Java_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arpitapatil14/Java_DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -465,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/arpitapatil14/Java_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/arpitapatil14/Java_DSA/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/arpitapatil14/Java_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/arpitapatil14/Java_DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Divide and Conquer
