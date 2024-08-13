@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/arpitapatil14/Java_DSA/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -532,4 +533,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arpitapatil14/Java_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
