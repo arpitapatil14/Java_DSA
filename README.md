@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/arpitapatil14/Java_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0924-fair-candy-swap](https://github.com/arpitapatil14/Java_DSA/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/1333-sort-the-jumbled-numbers) |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/arpitapatil14/Java_DSA/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/arpitapatil14/Java_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/arpitapatil14/Java_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/arpitapatil14/Java_DSA/tree/master/0921-spiral-matrix-iii) |
 | [0924-fair-candy-swap](https://github.com/arpitapatil14/Java_DSA/tree/master/0924-fair-candy-swap) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/arpitapatil14/Java_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arpitapatil14/Java_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2551-apply-operations-to-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/arpitapatil14/Java_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0924-fair-candy-swap](https://github.com/arpitapatil14/Java_DSA/tree/master/0924-fair-candy-swap) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arpitapatil14/Java_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Linked List
