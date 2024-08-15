@@ -318,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/arpitapatil14/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0198-house-robber](https://github.com/arpitapatil14/Java_DSA/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arpitapatil14/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/arpitapatil14/Java_DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/arpitapatil14/Java_DSA/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
@@ -492,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arpitapatil14/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
