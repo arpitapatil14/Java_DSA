@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/arpitapatil14/Java_DSA/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/arpitapatil14/Java_DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/arpitapatil14/Java_DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2379-maximum-total-importance-of-roads](https://github.com/arpitapatil14/Java_DSA/tree/master/2379-maximum-total-importance-of-roads) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/arpitapatil14/Java_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/arpitapatil14/Java_DSA/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/arpitapatil14/Java_DSA/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/arpitapatil14/Java_DSA/tree/master/0921-spiral-matrix-iii) |
 | [0924-fair-candy-swap](https://github.com/arpitapatil14/Java_DSA/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0932-monotonic-array) |
