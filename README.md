@@ -414,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2190-count-common-words-with-one-occurrence](https://github.com/arpitapatil14/Java_DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/arpitapatil14/Java_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/arpitapatil14/Java_DSA/tree/master/2502-sort-the-people) |
+| [2825-minimize-string-length](https://github.com/arpitapatil14/Java_DSA/tree/master/2825-minimize-string-length) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -453,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/arpitapatil14/Java_DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2502-sort-the-people](https://github.com/arpitapatil14/Java_DSA/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/arpitapatil14/Java_DSA/tree/master/2727-number-of-senior-citizens) |
+| [2825-minimize-string-length](https://github.com/arpitapatil14/Java_DSA/tree/master/2825-minimize-string-length) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/arpitapatil14/Java_DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
