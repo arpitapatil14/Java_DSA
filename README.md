@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/arpitapatil14/Java_DSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/arpitapatil14/Java_DSA/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/arpitapatil14/Java_DSA/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/arpitapatil14/Java_DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/1240-stone-game-ii) |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/arpitapatil14/Java_DSA/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/arpitapatil14/Java_DSA/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arpitapatil14/Java_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0965-unique-email-addresses](https://github.com/arpitapatil14/Java_DSA/tree/master/0965-unique-email-addresses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arpitapatil14/Java_DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
