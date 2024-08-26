@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/arpitapatil14/Java_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/arpitapatil14/Java_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/arpitapatil14/Java_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/arpitapatil14/Java_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -486,12 +487,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/arpitapatil14/Java_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arpitapatil14/Java_DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/arpitapatil14/Java_DSA/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/arpitapatil14/Java_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/arpitapatil14/Java_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arpitapatil14/Java_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/arpitapatil14/Java_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/arpitapatil14/Java_DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
