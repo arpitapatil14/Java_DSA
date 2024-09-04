@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/arpitapatil14/Java_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/arpitapatil14/Java_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/arpitapatil14/Java_DSA/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/arpitapatil14/Java_DSA/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/arpitapatil14/Java_DSA/tree/master/0921-spiral-matrix-iii) |
 | [0924-fair-candy-swap](https://github.com/arpitapatil14/Java_DSA/tree/master/0924-fair-candy-swap) |
 | [0932-monotonic-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0932-monotonic-array) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/arpitapatil14/Java_DSA/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/arpitapatil14/Java_DSA/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/arpitapatil14/Java_DSA/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/arpitapatil14/Java_DSA/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/arpitapatil14/Java_DSA/tree/master/1803-average-waiting-time) |
@@ -442,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/arpitapatil14/Java_DSA/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/arpitapatil14/Java_DSA/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/arpitapatil14/Java_DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/arpitapatil14/Java_DSA/tree/master/0924-fair-candy-swap) |
 | [0965-unique-email-addresses](https://github.com/arpitapatil14/Java_DSA/tree/master/0965-unique-email-addresses) |
