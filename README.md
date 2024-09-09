@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/arpitapatil14/Java_DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/arpitapatil14/Java_DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/arpitapatil14/Java_DSA/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/arpitapatil14/Java_DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/arpitapatil14/Java_DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/arpitapatil14/Java_DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/arpitapatil14/Java_DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/arpitapatil14/Java_DSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/arpitapatil14/Java_DSA/tree/master/0650-2-keys-keyboard) |
