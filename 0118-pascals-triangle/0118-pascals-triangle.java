@@ -1,20 +1,23 @@
 public class Solution {
+    public static int ncr(int n, int r) {
+        long ans = 1;
+        for (int i = 0; i < r; i++) {
+            ans *= (n - i);
+            ans /= (i + 1);
+        }
+        return (int) ans;
+    }
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> triangle = new ArrayList<List<Integer>>();
-        if (numRows <=0){
-            return triangle;
-        }
-        for (int i=0; i<numRows; i++){
-            List<Integer> row =  new ArrayList<Integer>();
-            for (int j=0; j<i+1; j++){
-                if (j==0 || j==i){
-                    row.add(1);
-                } else {
-                    row.add(triangle.get(i-1).get(j-1)+triangle.get(i-1).get(j));
-                }
+        
+        for (int row = 0; row < numRows; row++) {
+            List<Integer> temp = new ArrayList<Integer>();
+            for (int col = 0; col <= row; col++) {
+                temp.add(ncr(row, col)); 
             }
-            triangle.add(row);
+            triangle.add(temp);
         }
         return triangle;
     }
+
 }
