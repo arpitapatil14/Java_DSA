@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0031-next-permutation](https://github.com/arpitapatil14/Java_DSA/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/arpitapatil14/Java_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arpitapatil14/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arpitapatil14/Java_DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/arpitapatil14/Java_DSA/tree/master/0073-set-matrix-zeroes) |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/arpitapatil14/Java_DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/arpitapatil14/Java_DSA/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/arpitapatil14/Java_DSA/tree/master/0273-integer-to-english-words) |
@@ -562,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/arpitapatil14/Java_DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/arpitapatil14/Java_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/arpitapatil14/Java_DSA/tree/master/0870-magic-squares-in-grid) |
