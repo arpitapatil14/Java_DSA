@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/arpitapatil14/Java_DSA/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/arpitapatil14/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arpitapatil14/Java_DSA/tree/master/0055-jump-game) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/arpitapatil14/Java_DSA/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/arpitapatil14/Java_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arpitapatil14/Java_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
