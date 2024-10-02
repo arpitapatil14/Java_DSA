@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/arpitapatil14/Java_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/arpitapatil14/Java_DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/arpitapatil14/Java_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arpitapatil14/Java_DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/arpitapatil14/Java_DSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/arpitapatil14/Java_DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/arpitapatil14/Java_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/arpitapatil14/Java_DSA/tree/master/0075-sort-colors) |
