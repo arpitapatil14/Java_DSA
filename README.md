@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/arpitapatil14/Java_DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/arpitapatil14/Java_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/arpitapatil14/Java_DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/arpitapatil14/Java_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/arpitapatil14/Java_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/arpitapatil14/Java_DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/arpitapatil14/Java_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0119-pascals-triangle-ii) |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/arpitapatil14/Java_DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/arpitapatil14/Java_DSA/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/arpitapatil14/Java_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arpitapatil14/Java_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
