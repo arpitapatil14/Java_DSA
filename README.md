@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/arpitapatil14/Java_DSA/tree/master/0206-reverse-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/arpitapatil14/Java_DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/arpitapatil14/Java_DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/arpitapatil14/Java_DSA/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -514,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/arpitapatil14/Java_DSA/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/arpitapatil14/Java_DSA/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/arpitapatil14/Java_DSA/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpitapatil14/Java_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
