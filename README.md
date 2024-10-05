@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arpitapatil14/Java_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/arpitapatil14/Java_DSA/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/arpitapatil14/Java_DSA/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/arpitapatil14/Java_DSA/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0965-unique-email-addresses](https://github.com/arpitapatil14/Java_DSA/tree/master/0965-unique-email-addresses) |
 | [0999-regions-cut-by-slashes](https://github.com/arpitapatil14/Java_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/arpitapatil14/Java_DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1127-last-stone-weight](https://github.com/arpitapatil14/Java_DSA/tree/master/1127-last-stone-weight) |
 | [1196-filling-bookcase-shelves](https://github.com/arpitapatil14/Java_DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/arpitapatil14/Java_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/1240-stone-game-ii) |
