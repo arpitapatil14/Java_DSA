@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/arpitapatil14/Java_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/arpitapatil14/Java_DSA/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/arpitapatil14/Java_DSA/tree/master/0048-rotate-image) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/arpitapatil14/Java_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/arpitapatil14/Java_DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/arpitapatil14/Java_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0088-merge-sorted-array) |
