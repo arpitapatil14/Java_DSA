@@ -434,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/arpitapatil14/Java_DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/arpitapatil14/Java_DSA/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0264-ugly-number-ii) |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arpitapatil14/Java_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/arpitapatil14/Java_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/arpitapatil14/Java_DSA/tree/master/0206-reverse-linked-list) |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arpitapatil14/Java_DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/arpitapatil14/Java_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/arpitapatil14/Java_DSA/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/arpitapatil14/Java_DSA/tree/master/0273-integer-to-english-words) |
