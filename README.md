@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/arpitapatil14/Java_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/arpitapatil14/Java_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/arpitapatil14/Java_DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/arpitapatil14/Java_DSA/tree/master/0075-sort-colors) |
@@ -508,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/arpitapatil14/Java_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/arpitapatil14/Java_DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/arpitapatil14/Java_DSA/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/arpitapatil14/Java_DSA/tree/master/0908-middle-of-the-linked-list) |
