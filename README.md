@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/arpitapatil14/Java_DSA/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/arpitapatil14/Java_DSA/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arpitapatil14/Java_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arpitapatil14/Java_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arpitapatil14/Java_DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/arpitapatil14/Java_DSA/tree/master/0100-same-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/arpitapatil14/Java_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/arpitapatil14/Java_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/arpitapatil14/Java_DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/arpitapatil14/Java_DSA/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/arpitapatil14/Java_DSA/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arpitapatil14/Java_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arpitapatil14/Java_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arpitapatil14/Java_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -597,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/arpitapatil14/Java_DSA/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/arpitapatil14/Java_DSA/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arpitapatil14/Java_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arpitapatil14/Java_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/arpitapatil14/Java_DSA/tree/master/1207-delete-nodes-and-return-forest) |
