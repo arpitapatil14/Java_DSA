@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arpitapatil14/Java_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arpitapatil14/Java_DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/arpitapatil14/Java_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/arpitapatil14/Java_DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/arpitapatil14/Java_DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitapatil14/Java_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/arpitapatil14/Java_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/arpitapatil14/Java_DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/arpitapatil14/Java_DSA/tree/master/0238-product-of-array-except-self) |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitapatil14/Java_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/arpitapatil14/Java_DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/arpitapatil14/Java_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/arpitapatil14/Java_DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/arpitapatil14/Java_DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0264-ugly-number-ii) |
