@@ -11,7 +11,7 @@ class Solution {
         return new int[]{};*/
         HashMap<Integer,Integer> ans= new HashMap<>();
         for(int i=0;i<nums.length;i++){
-            for(Map.Entry<Integer,Integer> entry : ans.entrySet()){
+            for(Map.Entry<Integer,Integer> entry : ans.entrySet()){ //index,val;
                 if(entry.getValue()+nums[i]== target){
                     return new int[] {entry.getKey(),i};
                 }
