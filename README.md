@@ -558,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/arpitapatil14/Java_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arpitapatil14/Java_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpitapatil14/Java_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
@@ -589,6 +590,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/arpitapatil14/Java_DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/arpitapatil14/Java_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arpitapatil14/Java_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arpitapatil14/Java_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/arpitapatil14/Java_DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -680,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/arpitapatil14/Java_DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arpitapatil14/Java_DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/arpitapatil14/Java_DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
