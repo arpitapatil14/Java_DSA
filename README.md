@@ -349,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arpitapatil14/Java_DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/arpitapatil14/Java_DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/arpitapatil14/Java_DSA/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/arpitapatil14/Java_DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arpitapatil14/Java_DSA/tree/master/0053-maximum-subarray) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/arpitapatil14/Java_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/arpitapatil14/Java_DSA/tree/master/0349-intersection-of-two-arrays) |
