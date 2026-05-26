@@ -579,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitapatil14/Java_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/arpitapatil14/Java_DSA/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/arpitapatil14/Java_DSA/tree/master/0273-integer-to-english-words) |
+| [0520-detect-capital](https://github.com/arpitapatil14/Java_DSA/tree/master/0520-detect-capital) |
 | [0564-find-the-closest-palindrome](https://github.com/arpitapatil14/Java_DSA/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/arpitapatil14/Java_DSA/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/arpitapatil14/Java_DSA/tree/master/0664-strange-printer) |
