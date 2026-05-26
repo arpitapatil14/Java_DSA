@@ -527,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/arpitapatil14/Java_DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/arpitapatil14/Java_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/arpitapatil14/Java_DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2502-sort-the-people](https://github.com/arpitapatil14/Java_DSA/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/arpitapatil14/Java_DSA/tree/master/2825-minimize-string-length) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/arpitapatil14/Java_DSA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -594,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2190-count-common-words-with-one-occurrence](https://github.com/arpitapatil14/Java_DSA/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/arpitapatil14/Java_DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/arpitapatil14/Java_DSA/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/arpitapatil14/Java_DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2502-sort-the-people](https://github.com/arpitapatil14/Java_DSA/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/arpitapatil14/Java_DSA/tree/master/2727-number-of-senior-citizens) |
 | [2825-minimize-string-length](https://github.com/arpitapatil14/Java_DSA/tree/master/2825-minimize-string-length) |
@@ -742,4 +744,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitapatil14/Java_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/arpitapatil14/Java_DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->
