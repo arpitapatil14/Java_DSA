@@ -422,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2727-number-of-senior-citizens](https://github.com/arpitapatil14/Java_DSA/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/arpitapatil14/Java_DSA/tree/master/3194-find-words-containing-character) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/arpitapatil14/Java_DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/arpitapatil14/Java_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2155-find-missing-observations](https://github.com/arpitapatil14/Java_DSA/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/arpitapatil14/Java_DSA/tree/master/2645-pass-the-pillow) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/arpitapatil14/Java_DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpitapatil14/Java_DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
